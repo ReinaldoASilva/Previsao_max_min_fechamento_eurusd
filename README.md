@@ -77,14 +77,8 @@ print(f"Previsão do fechamento do próximo dia: {previsao_Close:.2f}")
 print(f"Previsão do preço médio do próximo dia: {previsao_preco_medio:.2f}")
 ```
 
-Certifique-se de ajustar o código e as instruções de acordo com suas necessidades específicas.
+Qualquer dúvida é só enviar uma mensagem
+reialvesilva@gmail.com
 
-## Limitações e Melhorias Futuras
 
-- Este projeto usa uma abordagem simples de regressão linear para prever os preços do próximo dia. Outros modelos mais avançados, como redes neurais, podem ser explorados para melhorar a precisão das previsões.
-- A previsão é feita com base nos dados históricos do par de moedas EUR/USD. O desempenho do modelo pode variar dependendo das condições de mercado e de outros fatores externos.
-- Este projeto pode ser expandido para prever preços para períodos mais longos ou para outros ativos financeiros.
-```
 
-Este README básico fornece uma descrição geral do seu projeto, instruções sobre como usá-lo e algumas informações sobre limitações e melhorias futuras. Você pode personalizá-lo de acordo com as necessidades e detalhes específicos do seu projeto.
- 
